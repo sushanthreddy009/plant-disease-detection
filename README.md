@@ -63,6 +63,9 @@ Flatten → Dense Layers
 ↓
 Output Layer (10 classes)
 
+
+---
+
 ## 📁 Project Structure
 
 ├── static/
@@ -77,6 +80,8 @@ Output Layer (10 classes)
 ├── .gitignore                # To ignore virtualenv etc
 ├── README.md                 # THIS FILE
 
+
+---
 
 ## 🚀 How To Run Locally (Windows/Any OS)
 
@@ -155,16 +160,20 @@ Saved as model.h5 and reused in this web app
 
 To retrain, modify your CNN and retrain with your dataset
 
-🧾 License
+
+---
+
+
+##🧾 License
 MIT License — feel free to use and modify ✨
 
-🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome. For major changes, open an issue first.
 
-🧑‍💻 Maintainer
+## 🧑‍💻 Maintainer
 Made with ❤️ by Sushanth Reddy
 
-🌟 Support
+## 🌟 Support
 If you found this helpful, please ⭐ star the repo. It motivates me to build more!
 
 
