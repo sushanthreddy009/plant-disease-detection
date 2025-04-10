@@ -64,7 +64,7 @@ Flatten → Dense Layers
 Output Layer (10 classes)
 
 
----
+
 
 ## 📁 Project Structure
 
