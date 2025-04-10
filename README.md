@@ -54,7 +54,7 @@ We trained our model to detect **10 tomato leaf conditions**, including:
 
 ## 🧬 Model Architecture (Simplified)
 
-```text
+
 Input Image (128x128x3)
 ↓
 Conv2D + MaxPooling (x3)
@@ -144,7 +144,7 @@ The app renders a friendly web page for each disease with information and treatm
 
 ## 🔍 Key Code (Prediction Logic)
 
-```python
+
 def pred_tomato_disease(tomato_plant):
     test_image = load_img(tomato_plant, target_size=(128, 128))
     test_image = img_to_array(test_image) / 255
