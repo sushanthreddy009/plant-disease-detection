@@ -127,15 +127,6 @@ http://127.0.0.1:5000
 - Wait for it to process  
 - Get **instant disease diagnosis** 🔍
 
----
-
-## 📸 Note About Images
-
-- Image **will be resized** to 128x128 internally  
-- You can upload **JPG / PNG** images  
-- A small preview will be shown on results page  
-
----
 
 ## 🧠 Sample Output
 
