@@ -54,7 +54,7 @@ We trained our model to detect **10 tomato leaf conditions**, including:
 
 ## 🧬 Model Architecture (Simplified)
 
-
+```text
 Input Image (128x128x3)
 ↓
 Conv2D + MaxPooling (x3)
