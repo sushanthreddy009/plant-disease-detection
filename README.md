@@ -82,7 +82,6 @@ Output Layer (10 classes)
 
 
 
----
 
 ## 🚀 How To Run Locally (Windows/Any OS)
 
@@ -162,7 +161,7 @@ Saved as model.h5 and reused in this web app
 To retrain, modify your CNN and retrain with your dataset
 
 
----
+
 
 
 ##🧾 License
