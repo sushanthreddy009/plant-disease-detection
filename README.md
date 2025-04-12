@@ -142,16 +142,6 @@ The app renders a friendly web page for each disease with information and treatm
 
 ---
 
-## 🔍 Key Code (Prediction Logic)
-
-
-def pred_tomato_disease(tomato_plant):
-    test_image = load_img(tomato_plant, target_size=(128, 128))
-    test_image = img_to_array(test_image) / 255
-    test_image = np.expand_dims(test_image, axis=0)
-    result = model.predict(test_image)
-    pred = np.argmax(result, axis=1)
-    ...
 
 🧪 Model Training (Optional)
 Model was trained using TensorFlow on the PlantVillage dataset
